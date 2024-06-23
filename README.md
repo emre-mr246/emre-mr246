@@ -27,7 +27,7 @@
 |  1   | [Get_Next_Line](https://github.com/emre-mr246/42_ring1_get_next_line) - Read from file line by line |
 |  2   | [Push_Swap](https://github.com/emre-mr246/42_ring02_push_swap) - Sorting algorithms |
 |  2   | [Pipex](https://github.com/emre-mr246/42_ring2_pipex) - Unix/Linux pipes |
-|  2   | [FDF](https://github.com/emre-mr246/42_ring02_fdf) - 3D map graphics |
+|  2   | [FDF](https://github.com/emre-mr246/42_ring2_fdf) - 3D map graphics |
 |  3   | [Minishell (work in progress)](https://github.com/emre-mr246/42_ring03_minishell) - Unix shell |
 
 
