@@ -22,12 +22,12 @@
 ## My Ecole 42 Projects
 | Rank | Project |
 |:----:|---------|
-|  0   | [Libft](https://github.com/emre-mr246/Libft) - Custom C library |
-|  1   | [Printf](https://github.com/emre-mr246/Printf) - Custom printf function |
-|  1   | [Get_Next_Line](https://github.com/emre-mr246/Get_Next_Line) - Read from file line by line |
-|  2   | [Push_Swap](https://github.com/emre-mr246/Push_Swap) - Sorting algorithms |
-|  2   | [Pipex](https://github.com/emre-mr246/Pipex) - Unix/Linux pipes |
-|  2   | [FDF](https://github.com/emre-mr246/FDF) - 3D map graphics |
-|  3   | [Minishell (work in progress)](https://github.com/emre-mr246/Minishell) - Unix shell |
+|  0   | [Libft](https://github.com/emre-mr246/42_ring0_libft) - Custom C library |
+|  1   | [Printf](https://github.com/emre-mr246/42_ring01_printf) - Custom printf function |
+|  1   | [Get_Next_Line](https://github.com/emre-mr246/42_ring1_get_next_line) - Read from file line by line |
+|  2   | [Push_Swap](https://github.com/emre-mr246/42_ring02_push_swap) - Sorting algorithms |
+|  2   | [Pipex](https://github.com/emre-mr246/42_ring2_pipex) - Unix/Linux pipes |
+|  2   | [FDF](https://github.com/emre-mr246/42_ring02_fdf) - 3D map graphics |
+|  3   | [Minishell (work in progress)](https://github.com/emre-mr246/42_ring03_minishell) - Unix shell |
 
 
