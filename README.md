@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Emre!</h1>
 <h3 align="center">I am passionate about cybersecurity and C programming.</h3>
 
@@ -6,7 +7,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emregl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emregl" height="30" width="40" /></a>
-<a href="https://discord.gg/mr246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mr246" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,4 +16,18 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emre-mr246&show_icons=true&locale=en" alt="emre-mr246" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emre-mr246&" alt="emre-mr246" /></p>
+
+## My Ecole 42 Projects
+| Rank | Project |
+|:----:|---------|
+|  0   | [Libft](https://github.com/emre-mr246/Libft) - Custom C library |
+|  1   | [Printf](https://github.com/emre-mr246/Printf) - Custom printf function |
+|  1   | [Get_Next_Line](https://github.com/emre-mr246/Get_Next_Line) - Read from file line by line |
+|  2   | [Push_Swap](https://github.com/emre-mr246/Push_Swap) - Sorting algorithms |
+|  2   | [Pipex](https://github.com/emre-mr246/Pipex) - Unix/Linux pipes |
+|  2   | [FDF](https://github.com/emre-mr246/FDF) - 3D map graphics |
+|  3   | [Minishell (work in progress)](https://github.com/emre-mr246/Minishell) - Unix shell |
+
+
