@@ -25,6 +25,7 @@
 |  0   | [Libft](https://github.com/emre-mr246/42_ring0_libft) - Custom C library |
 |  1   | [Printf](https://github.com/emre-mr246/42_ring01_printf) - Custom printf function |
 |  1   | [Get_Next_Line](https://github.com/emre-mr246/42_ring1_get_next_line) - Read from file line by line |
+|  1   | [Born2BeRoot](https://github.com/emre-mr246/42_ring1_born2beroot) - Setting up a work server |
 |  2   | [Push_Swap](https://github.com/emre-mr246/42_ring02_push_swap) - Sorting algorithms |
 |  2   | [Pipex](https://github.com/emre-mr246/42_ring2_pipex) - Unix/Linux pipes |
 |  2   | [FDF](https://github.com/emre-mr246/42_ring2_fdf) - 3D map graphics |
