@@ -33,4 +33,12 @@
 |  2   | [FDF](https://github.com/emre-mr246/42_ring2_fdf) - 3D map graphics |
 |  3   | [Minishell (work in progress)](https://github.com/emre-mr246/42_ring3_minishell) - Unix shell |
 
+<div align="center">
+  <h2></h2>
+    <a href= https://github.com/emre-mr246/42-evaluation><img src="https://img.shields.io/badge/circle-3/6-magenta?style=for-the-badge"/></a>
+    <a href= https://github.com/emre-mr246/42-evaluation><img src="https://img.shields.io/badge/42-Evaluation-red?style=for-the-badge"/></a>
+    <a href="https://42istanbul.com.tr/"><img src="https://img.shields.io/badge/42-ISTANBUL-white?style=for-the-badge"/></a>
+   
+</div>
+
 
