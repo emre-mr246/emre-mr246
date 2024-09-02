@@ -31,8 +31,8 @@
 |  2   | [Push_Swap](https://github.com/emre-mr246/42_ring2_push_swap) - Sorting algorithms |
 |  2   | [Pipex](https://github.com/emre-mr246/42_ring2_pipex) - Unix/Linux pipes |
 |  2   | [FDF](https://github.com/emre-mr246/42_ring2_fdf) - 3D map graphics |
-|  3   | [Philosophers (work in progress)](https://github.com/emre-mr246/42_ring3_philosophers) - The dining philosophers problem |
-|  3   | [Minishell (work in progress)](https://github.com/emre-mr246/42_ring3_minishell) - Unix shell |
+|  3   | [Philosophers (finished, available soon)](https://github.com/emre-mr246/42_ring3_philosophers) - The dining philosophers problem |
+|  3   | [Minishell (work in progress...)](https://github.com/emre-mr246/42_ring3_minishell) - Unix shell |
 
 
 <div align="center">
