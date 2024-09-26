@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Emre!</h1>
 <h3 align="center">I am passionate about cybersecurity and C programming.</h3>
 
-- 🔭 I’m currently working on **42 minishell project**
+- 🔭 I’m currently working on **42 miniRT project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
