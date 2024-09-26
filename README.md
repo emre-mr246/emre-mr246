@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Emre!</h1>
 <h3 align="center">I am passionate about cybersecurity and C programming.</h3>
 
-- 🔭 I’m currently working on **42 miniRT project**
+- 🔭 I’m currently working on **42 miniRT and CPP projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,14 +30,16 @@
 |  1   | [Born2BeRoot](https://github.com/emre-mr246/42_ring1_born2beroot) - Setting up a work server |
 |  2   | [Push_Swap](https://github.com/emre-mr246/42_ring2_push_swap) - Sorting algorithms |
 |  2   | [Pipex](https://github.com/emre-mr246/42_ring2_pipex) - Unix/Linux pipes |
-|  2   | [FDF](https://github.com/emre-mr246/42_ring2_fdf) - 3D map graphics |
+|  2   | [FDF](https://github.com/emre-mr246/42_ring2_fdf) - Line drawing algorithms |
 |  3   | [Philosophers](https://github.com/emre-mr246/42_ring3_philosophers) - The dining philosophers problem |
 |  3   | [Minishell](https://github.com/emre-mr246/42_ring3_minishell) - Unix shell |
+|  4   | [miniRT(WIP/priv)](https://github.com/emre-mr246/42_ring4_minirt) - Ray tracing algorithms |
+|  4   | [CPP Modules(WIP/priv)](https://github.com/emre-mr246/42_ring4_cpp) - C++ |
 
 
 <div align="center">
   <h2></h2>
-    <a href= https://github.com/emre-mr246/42-evaluation><img src="https://img.shields.io/badge/circle-3/6-magenta?style=for-the-badge"/></a>
+    <a href= https://github.com/emre-mr246/42-evaluation><img src="https://img.shields.io/badge/circle-4/6-magenta?style=for-the-badge"/></a>
     <a href= https://github.com/emre-mr246/42-evaluation><img src="https://img.shields.io/badge/42-Evaluation-red?style=for-the-badge"/></a>
     <a href="https://42istanbul.com.tr/"><img src="https://img.shields.io/badge/42-ISTANBUL-white?style=for-the-badge"/></a>
    
