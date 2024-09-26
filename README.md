@@ -32,7 +32,7 @@
 |  2   | [Pipex](https://github.com/emre-mr246/42_ring2_pipex) - Unix/Linux pipes |
 |  2   | [FDF](https://github.com/emre-mr246/42_ring2_fdf) - 3D map graphics |
 |  3   | [Philosophers](https://github.com/emre-mr246/42_ring3_philosophers) - The dining philosophers problem |
-|  3   | [Minishell (work in progress/priv)](https://github.com/emre-mr246/42_ring3_minishell) - Unix shell |
+|  3   | [Minishell](https://github.com/emre-mr246/42_ring3_minishell) - Unix shell |
 
 
 <div align="center">
