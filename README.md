@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Emre!</h1>
-<h3 align="center">I am passionate about cybersecurity and C programming.</h3>
+<h3 align="center">I am passionate about cybersecurity and programming.</h3>
 
 - 🔭 I’m currently working on **42 miniRT and CPP projects**
 
