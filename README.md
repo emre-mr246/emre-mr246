@@ -32,8 +32,8 @@
 |  2   | [Pipex](https://github.com/emre-mr246/42_ring2_pipex) - Unix/Linux pipes |
 |  2   | [FDF](https://github.com/emre-mr246/42_ring2_fdf) - Line drawing algorithms |
 |  3   | [Philosophers](https://github.com/emre-mr246/42_ring3_philosophers) - The dining philosophers problem |
-|  3   | [Minishell](https://github.com/emre-mr246/42_ring3_minishell) - Unix shell |
-|  4   | [miniRT(WIP/priv)](https://github.com/emre-mr246/42_ring4_minirt) - Ray tracing algorithms |
+|  3   | [RaRe Shell/minishell](https://github.com/emre-mr246/42_ring3_minishell) - Unix shell |
+|  4   | [RaRe Tracer/miniRT(WIP/priv)](https://github.com/emre-mr246/42_ring4_minirt) - Ray tracing algorithms |
 |  4   | [CPP Modules(WIP/priv)](https://github.com/emre-mr246/42_ring4_cpp) - C++ |
 
 
