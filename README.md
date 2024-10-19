@@ -33,8 +33,8 @@
 |  2   | [FDF](https://github.com/emre-mr246/42_ring2_fdf) - Line drawing algorithms |
 |  3   | [Philosophers](https://github.com/emre-mr246/42_ring3_philosophers) - The dining philosophers problem |
 |  3   | [RaRe Shell/minishell](https://github.com/emre-mr246/42_ring3_minishell) - Unix shell |
-|  4   | [CPP Modules(WIP)](https://github.com/emre-mr246/42_ring4_cpp_modules) - C++ |
 |  4   | [NetPractice(WIP/priv)](https://github.com/emre-mr246/42_ring4_netpractice) - Networking problems |
+|  4   | [CPP Modules(WIP)](https://github.com/emre-mr246/42_ring4_cpp_modules) - C++ |
 |  4   | [RaRe Tracer/miniRT(WIP)](https://github.com/emre-mr246/42_ring4_minirt) - Ray tracing algorithms |
 
 
