@@ -35,12 +35,13 @@
 |  3   | [RaRe Shell/minishell](https://github.com/emre-mr246/42_ring3_minishell) - Unix shell |
 |  4   | [NetPractice](https://github.com/emre-mr246/42_ring4_netpractice) - Networking problems |
 |  4   | [CPP Modules(WIP)](https://github.com/emre-mr246/42_ring4_cpp_modules) - C++ |
-|  4   | [RaRe Tracer/miniRT(WIP)](https://github.com/emre-mr246/42_ring4_minirt) - Ray tracing algorithms |
+|  4   | [RaRe Tracer/miniRT](https://github.com/emre-mr246/42_ring4_minirt) - Ray tracing algorithms |
+|  5   | [RaRe Server/webserv](https://github.com/emre-mr246/42_ring4_minirt) - HTTP server |
 
 
 <div align="center">
   <h2></h2>
-    <a href= https://github.com/emre-mr246/42-evaluation><img src="https://img.shields.io/badge/circle-4/6-magenta?style=for-the-badge"/></a>
+    <a href= https://github.com/emre-mr246/42-evaluation><img src="https://img.shields.io/badge/circle-5/6-magenta?style=for-the-badge"/></a>
     <a href= https://github.com/emre-mr246/42-evaluation><img src="https://img.shields.io/badge/42-Evaluation-red?style=for-the-badge"/></a>
     <a href="https://42istanbul.com.tr/"><img src="https://img.shields.io/badge/42-ISTANBUL-white?style=for-the-badge"/></a>
    
