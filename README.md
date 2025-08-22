@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emre-mr246&" alt="emre-mr246" /></p>
 
-## My Ecole 42 Projects
+## My 42 Network Projects
 | Rank | Project |
 |:----:|---------|
 |  0   | [Libft](https://github.com/emre-mr246/42_ring0_libft) - Custom C library |
