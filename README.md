@@ -34,9 +34,9 @@
 |  3   | [RaRe Shell/minishell](https://github.com/emre-mr246/42_ring3_minishell) - Unix shell |
 |  4   | [NetPractice](https://github.com/emre-mr246/42_ring4_netpractice) - Networking problems |
 |  4   | [RaRe Tracer/miniRT](https://github.com/emre-mr246/42_ring4_minirt) - Ray tracing algorithms |
-|  4/5   | [CPP Modules(WIP)](https://github.com/emre-mr246/42_ring4_cpp_modules) - C++ |
+|  4/5   | [CPP Modules](https://github.com/emre-mr246/42_ring4_cpp_modules) - C++ |
 |  5   | [Inception](https://github.com/emre-mr246/42_ring5_inception) - Containers |
-|  5   | [RaRe Server/webserv(WIP)](https://github.com/emre-mr246/42_ring5_webserv) - HTTP server |
+|  5   | [RaRe Server/webserv](https://github.com/emre-mr246/42_ring5_webserv) - HTTP server |
 
 
 <div align="center">
